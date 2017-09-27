@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nenad Kostić</title>
+  <subtitle></subtitle>
+  <id>http://nenadkostic.com/</id>
+  <link href="http://nenadkostic.com/"/>
+  <link href="http://nenadkostic.com/feed.xml" rel="self"/>
+  <author>
+    <name>Nenad Kostić</name>
+  </author>
+</feed>
