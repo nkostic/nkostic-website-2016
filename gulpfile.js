@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var gutil = require('gulp-util');
 var browserSync = require('browser-sync');
-var cp = require('child_process');
+var cp = require('cross-spawn');
 
 var messages = {
   reload: 'Reloading...',
@@ -44,3 +44,4 @@ gulp.task('install-bundle', function(done) {
   cp.spawn('bundle', ['install'], { stdio: 'inherit' }).on('close', done);
 });
 gulp.task('install', ['install-bundle', 'install-bower']);
+gulp.task('default', ['install-bundle', 'install-bower']);

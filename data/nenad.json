@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Person",
+  "id": "https://www.nenadkostic.com",
+  "birthDate": "1980-05-18",
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Celje",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Slovenia",
+      "addressCountry": "SLO"
+    }
+  },
+  "description": "Driven by a thirst for knowledge I develop and lead web projects at Frontech – a digital agency where I work with great team of people.",
+  "email": "mailto:nenadkostic@gmail.com",
+  "familyName": "Kostić",
+  "gender": "Male",
+  "givenName": "Nenad",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Edmonton",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "CA"
+    }
+  },
+  "image": "https://www.nenadkostic.com/media/images/nenad.jpg",
+  "jobTitle": "Software Devloper, Bussiness Analyst",
+  "makesOffer": {
+    "@type": "Offer",
+    "areaServed": "Planet Earth",
+    "itemOffered": {
+      "@type": "Service",
+      "name": "Software development",
+      "url": "https://www.frontech.ca/"
+    },
+    "offeredBy": {
+      "@type": "Organization",
+      "name": "Frontech",
+      "url": "https://www.frontech.ca/"
+    }
+  },
+  "nationality": {
+    "@type": "Country",
+    "name": "Serbia",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "RS"
+    }
+  },
+  "telephone": "+17809934142",
+  "url": "https://www.nenadkostic.com",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Frontech",
+    "url": "https://www.frontech.ca/"
+  },
+  "workLocation": {
+    "@type": "Place",
+    "name": "Edmonton",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Edmonton",
+      "postalCode": "T5K0C1",
+      "streetAddress": "10055 118 Street",
+      "addressCountry": "CA"
+    }
+  }
+}

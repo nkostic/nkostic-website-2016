@@ -1,6 +1,6 @@
 module MetaHelpers
   def site_host
-    'https://www.helloper.com'
+    'http://nenadkostic.com'
   end
 
   def canonical_url
@@ -25,7 +25,6 @@ module MetaHelpers
       title += current_page.data.title
     else
       title += current_page.data.title + separator if current_page.data.title
-      #title << 'Per Sandström'
     end
   end
 
@@ -33,15 +32,15 @@ module MetaHelpers
     if current_page.data.description
       current_page.data.description
     else
-      data.per.description
+      data.nenad.description
     end
   end
 
   def og_image
     if current_page.data.share_image
-      "https://www.helloper.com#{current_page.data.share_image}"
+      "http://nenadkostic.com#{current_page.data.share_image}"
     else
-      'https://www.helloper.com/media/images/per-16x9.jpg'
+      'http://nenadkostic.com/media/images/nenad.jpg'
     end
   end
 
@@ -55,9 +54,9 @@ module MetaHelpers
 
   def twitter_image
     if current_page.data.share_image
-      "https://www.helloper.com#{current_page.data.share_image}"
+      "http://nenadkostic.com#{current_page.data.share_image}"
     else
-      'https://www.helloper.com/media/images/per-16x9.jpg'
+      'http://nenadkostic.com/media/images/nenad.jpg'
     end
   end
 

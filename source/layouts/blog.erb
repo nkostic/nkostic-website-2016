@@ -8,7 +8,6 @@
       </time>
     </a>
 
-
     <h1 class="p-name">
       <% if current_article.data.link_url %>
         <a href="<%= current_article.data.link_url %>">
@@ -21,18 +20,16 @@
 
     <div class="e-content"><%= yield %></div>
 
-
-
     <footer class="p-author h-card">
       <hr>
-      <%= image_tag 'per.jpg', alt: 'Per Sandström', class: 'u-photo' %>
+      <%= image_tag 'nenad.jpg', alt: 'Nenad Kostić', class: 'u-photo' %>
       👋 Nice to meet you! I'm
-      <a href="/about" class="p-name u-url"><span class="p-given-name">Per</span> <span class="p-family-name">Sandström</span></a>, <span class="p-note">partner and Head of Production at the digital agency <a href="https://www.kollegorna.se/en">Kollegorna</a></span>. We build things like <a href="https://www.kollegorna.se/en/work/the-icebreaker-machine">drink mixing robots</a>, <a href="https://www.kollegorna.se/en/work/vembi">fintech services</a>, <a href="https://www.kollegorna.se/en/work/skl-genombrott/">healthcare tools</a> and <a href="https://www.kollegorna.se/en/work/lanneberg-bexelius/">identities</a> for businesses and organisations all over the world.
+      <a href="/about" class="p-name u-url"><span class="p-given-name">Nenad</span> <span class="p-family-name">Kostić</span></a>, <span class="p-note">developer and bussiess analzst at the digital agency <a href="https://www.frontech.ca">Frontech Solutions Inc.</a></span>. We build software for businesses and organisations all over the world.
     </footer>
   </article>
 
   <div class="blog-cta">
-    <a href="mailto:per@helloper.com?subject=Lets work together">Let's work together!</a>
+    <a href="mailto:nenadkostic@gmail.com?subject=Lets work together">Let's work together!</a>
   </div>
 
   <%= partial "partials/blog/footer" %>

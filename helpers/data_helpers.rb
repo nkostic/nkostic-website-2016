@@ -1,7 +1,7 @@
 require 'json'
 
 module DataHelpers
-  def per_json_data
-    string = File.read('data/per.json')
+  def nenad_json_data
+    string = File.read('data/nenad.json')
   end
 end

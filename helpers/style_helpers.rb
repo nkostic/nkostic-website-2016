@@ -15,12 +15,6 @@ module StyleHelpers
     end
   end
 
-  # http://stackoverflow.com/questions/2129928/rails-split-and-wrap-each-character-in-a-string
-  #
-  # <%- @text = "abc" -%>
-  # <%- wrap_each_char(@text) do |c| -%>
-  # <span><%= c %></span>
-  # <%- end -%>
   def wrap_each_char(string, &block)
     string.each_char.map(&block).join
   end

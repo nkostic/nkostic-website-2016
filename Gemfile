@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-
+gem 'wdm', '>= 0.1.0'
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'builder'
 gem 'jasmine'
 gem 'middleman'
@@ -10,5 +11,6 @@ gem 'middleman-autoprefixer'
 gem 'middleman-livereload'
 gem 'middleman-minify-html'
 gem 'redcarpet'
+gem 'middleman-gh-pages'
 gem 'json', github: 'flori/json', branch: 'v1.8'
 gem 'breakpoint'

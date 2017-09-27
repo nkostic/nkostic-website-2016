@@ -1,5 +1,5 @@
 /* TEAM */
-  Designer/Developer: Per Sandström
-  Contact: per [at] helloper.com
-  Twitter: @persand
-  From: Stockholm, Sweden
+  Developer-Analyst: Nenad Kostić
+  Contact: nenadkostic [at] gmail.com
+  Twitter: @Nesha8x8
+  From: Edmonton, Canada

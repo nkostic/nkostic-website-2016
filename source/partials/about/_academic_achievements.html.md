@@ -1,22 +1,16 @@
-## Academic achievements
-
-#### Dropped out of:
-
-Hyper Island   
-2002 –   
-Digital Media Creative
-
-Blackeberg High School  
-1999 –  
-Natual Science program    
+## Academic achievements  
 
 #### Completed:
 
-Tappströmsskolan   
-1996 – 1999   
-Junior high school  
+VISER - School of electrical engineering and computer science applied studies.
+2011 – 2013  
+Bachelor of Science
 
-Närlundaskolan  
-1990 – 1996  
-Lower and intermediary school
+VISER - School of electrical engineering and computer science applied studies.
+2004 – 2009   
+College 
 
+Nikola Tesla
+School of electrical engineering.
+1995 - 1999
+High School

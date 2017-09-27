@@ -1,4 +1,9 @@
-This is the source of [helloper.com](https://www.helloper.com). It's based on the [Kollegorna Middleman Boilerplate](https://github.com/kollegorna/middleman-boilerplate).
+This is the source of my home page [nenadkostic.com](http://nenadkostic.com). It's a fork of the [Per Sandströms home page project](https://github.com/persand/helloper.com). Same one is based on the [Kollegorna Middleman Boilerplate](https://github.com/kollegorna/middleman-boilerplate).
+
+This fork was configured to be built on Windows 10.
+
+Also Easy deployment of Middleman sites to Github Pages enabled by [middleman-gh-pages progject](https://github.com/edgecase/middleman-gh-pages).
+
 
 ## Local setup
 
@@ -9,10 +14,13 @@ This is the source of [helloper.com](https://www.helloper.com). It's based on th
 
 ## Deployment
 
-The master branch is automatically deployed to my [512 mb Vultr VPS](http://www.vultr.com/?ref=7125759) using [Codeship](https://www.codeship.com).
+    rake build    
 
-More info:  
-[Automatically deploy Middleman with Codeship to a VPS](https://www.helloper.com/blog/2017/03/automatically-deploy-middleman-codeship-vps/)
+Compile all files into the build directory.
+
+    rake publish 
+
+Build and publish to Github Pages.
 
 ## Gulp commands
 
