@@ -2,6 +2,9 @@ This is the source of my home page [nenadkostic.com](http://nenadkostic.com). It
 
 This fork was configured to be built on Windows 10.
 
+Node version v6.11.3
+Ruby v6.11.3
+
 Also Easy deployment of Middleman sites to Github Pages enabled by [middleman-gh-pages progject](https://github.com/edgecase/middleman-gh-pages).
 
 
