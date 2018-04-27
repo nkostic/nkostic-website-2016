@@ -13,37 +13,31 @@
 - Deployment
 - Maintenance
 
-#### Active stack:
+#### Buiding stuff with:
 
-- PHP
+- JavaScript
 - Node JS
-- Ractive JS
+- Postgres
+- PHP
 - MySQL
 - WordPress
 
-#### Vulcan stack:
-
-- Meteor
-- React
-- GraphQL
-- Mongo
-
-#### Legacy stack:
+#### Also Experienced with:
 
 - Coldfusion
-- jQuery
 - MSSQL
-- Mura
+- Mura CMS
 
 #### Clients:
 
-Privately held and listed companies, startups and organisations. Our mothership is in Edmonton, but we have offices in Unated States and Europe as well.
+Privately held and listed companies, startups and organisations. Check out [Frontech website](https://www.frontech.ca) for more details.
 
 #### Links:
 
 - [Frontech](https://www.frontech.ca)  
 - [GitHub](https://github.com/nkostic)  
 - [Twitter](https://twitter.com/Nesha8x8)  
-- [Home](https://www.nenadkostic.com)  
+- [Instagram](https://www.instagram.com/Nesha8x8/)
+- [Home](https://www.nenadkostic.com)
 
 

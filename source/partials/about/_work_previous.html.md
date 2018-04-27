@@ -12,7 +12,7 @@ Working for Oblik, a digital agancy from Belgrade Serbia.
 ### Freelance Web developer
 
 2008 – 2009  
-Working independently for various companies and agencies.
+Working independently as a web developer.
 
 ---
 
