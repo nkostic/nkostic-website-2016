@@ -1,4 +1,4 @@
-This is the source of my home page [nenadkostic.com](http://nenadkostic.com). It's a fork of the [Per Sandströms home page project](https://github.com/persand/helloper.com). Same one is based on the [Kollegorna Middleman Boilerplate](https://github.com/kollegorna/middleman-boilerplate).
+This used to be the source code of my home page [nenadkostic.com](http://nenadkostic.com). It's a fork of the [Per Sandströms home page project](https://github.com/persand/helloper.com). Same one is based on the [Kollegorna Middleman Boilerplate](https://github.com/kollegorna/middleman-boilerplate).
 
 This fork was configured to be built on Windows 10.
 
